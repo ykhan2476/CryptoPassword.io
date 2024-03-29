@@ -16,5 +16,9 @@ Technologies and Tools used:
 • Jupyter Notebook
 ![Screenshot 2024-03-17 211943](https://github.com/ykhan2476/CryptoPassword.io/assets/113904335/c27dda1b-ef1b-48aa-a6e1-b343d4fea6d6)
 
+![Screenshot 2024-03-17 211021](https://github.com/ykhan2476/CryptoPassword.io/assets/113904335/8ec80e4b-9c28-4dfe-ad00-7e1f45ebcd67)
 
+![Screenshot 2024-03-17 211053](https://github.com/ykhan2476/CryptoPassword.io/assets/113904335/14d72c8b-d230-4f45-bf9d-b0b612161ba0)
+
+![Screenshot 2024-03-17 211130](https://github.com/ykhan2476/CryptoPassword.io/assets/113904335/dfec108a-f9f4-4698-aa6c-1ff9bd3a38b9)
 
