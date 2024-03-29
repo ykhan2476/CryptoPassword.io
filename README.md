@@ -26,14 +26,22 @@ Figure 4: Press "Show All Passwords" button to see the encrypted passwords.
 
 Key Features of the Project:
 1)RSA Encryption: Utilizes RSA encryption for securing passwords, providing a high level of security.
+
 2)Graphical User Interface (GUI): Offers a user-friendly interface built using Tkinter, making it easy for users to interact with the application.
+
 3)Password Saving: Allows users to save passwords along with a unique key for encryption.
+
 4)Password Retrieval: Enables users to retrieve their passwords by providing the username and the corresponding unique key.
+
 5)Show All Saved Passwords: Provides an option to display all saved passwords in a table format for easy reference.
 
+
 Technologies and Tools used:
+
 • Tkinter
+
 • Python
+
 • Jupyter Notebook
 
 
